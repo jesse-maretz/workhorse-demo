@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665366209985",
+    "project_id": "workhorse-demo-c488f",
+    "storage_bucket": "workhorse-demo-c488f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665366209985:android:bcdf4cb270f490185fbb40",
+        "android_client_info": {
+          "package_name": "com.workhorse_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665366209985-02svqpigkknnb7q6p0n53a5a28ej4493.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.workhorse_demo",
+            "certificate_hash": "c0b00302fd44368fc0632010c7972e08c2aae46b"
+          }
+        },
+        {
+          "client_id": "665366209985-9s5g8snafsr0m2oi6f8oevfi91hio8m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARUVvJV0j4Jtdl6gRPNT5inZlKtwVi2O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665366209985-9s5g8snafsr0m2oi6f8oevfi91hio8m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

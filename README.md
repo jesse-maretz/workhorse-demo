@@ -1,6 +1,7 @@
 # workhorse_demo
 
-A demo app for Workhorse
+An exercise in mobile development and project-based learning (Flutter & Dart)
+*Work in progress*
 
 ## Getting Started
 
